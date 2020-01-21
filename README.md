@@ -7,4 +7,8 @@
 3.Put this line in:
 * -width 1920 -height 1080 -bpp 32
 
-4.FHD shoud be working
+4.In game in console put:
+
+* +mlook
+
+5.FHD and mouselook shoud be working
